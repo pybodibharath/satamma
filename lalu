@@ -1,0 +1,15 @@
+pwd mkdir mkdir-p cd touch cat cat> cat >>
+ls-lrthai umask 0002 umask0022 top free -mh tail head 
+git init git add git add .
+git cmmit -m "mes"
+git status
+git og oneline
+git log 
+git tag 
+git branch
+git branch branchname
+git switch branchname
+git checkut branch name
+git checkout -b branchname
+git commit -am "mes"
+git log oneline --all--graph
