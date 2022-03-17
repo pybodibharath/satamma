@@ -13,3 +13,8 @@ git checkut branch name
 git checkout -b branchname
 git commit -am "mes"
 git log oneline --all--graph
+git push origin master
+git remote add origin master
+git clone url
+git fetch urln 
+git pull 
